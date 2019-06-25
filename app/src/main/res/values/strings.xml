@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Ecosystems Test</string>
+    <string name="app_name">Конвертер валют</string>
+    <string name="downloading">Загрузка…</string>
+    <string name="failure">Не удалось загрузить xml</string>
+    <string name="button_text">Изменить валюту</string>
+    <string name="my_appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="repeat">Повторить</string>
+    <string name="valute_select">Выбор валют</string>
+    <string name="cancel">Отмена</string>
 </resources>
